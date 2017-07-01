@@ -28,6 +28,10 @@ import java.text.SimpleDateFormat;
 import java.util.BitSet;
 import java.util.Date;
 
+/**
+ * The mainactivity extends AppCompactActivity and implements onClickListener
+ *
+ */
 public class MainActivity extends AppCompatActivity  implements View.OnClickListener{
     Button btnWrite;
     Button btnShow;
